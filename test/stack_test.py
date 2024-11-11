@@ -5,8 +5,8 @@ class StackTest(unittest.TestCase):
 
 	def test_constructor(self):
 		stack = Stack(10)
-		self.assertEquals(stack.max_size, 10)
-		self.assertEquals(len(stack.items), 0)
+		self.assertEqual(stack.max_size, 10)
+		self.assertEqual(len(stack.items), 0)
 
 	"""
 	Implement at least two tests for each of the following
