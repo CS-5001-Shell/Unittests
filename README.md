@@ -1,11 +1,21 @@
 # Practice with Testing
 
+### Due - Monday, November 18, 2024
+
+Assignment Link: [https://classroom.github.com/a/xlgpuogx](https://classroom.github.com/a/xlgpuogx)
+ 
+ *Note: this lab has two parts! You will need to accept two assignments - part 1 and part 2. Part 1 can be accepted here: [https://classroom.github.com/a/sE1nxlKZ](https://classroom.github.com/a/sE1nxlKZ).*
+
+ <hr/>
+
+
 This lab assignment requires the following concepts:
 - Unit testing
 
 This assignment provides an implementation of the Stack data structure. Your
 assignment is to implement at least *six* unit tests for the methods in the
-`Stack` class, two for each of the methods `push`, `pop`, and `size`.
+`Stack` class, two for each of the methods `push`, `pop`, and `size`. Each test
+must be appropriately named and must test a different control path. 
 
 ## Assignment Submission
 
